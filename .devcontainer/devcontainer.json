@@ -1,8 +1,5 @@
 {
     "image": "mcr.microsoft.com/vscode/devcontainers/anaconda",
-    "forwardPorts": [
-        3000
-    ],
     "customizations": {
         // Configure properties specific to VS Code.
         "vscode": {
@@ -13,5 +10,9 @@
 				"ms-toolsai.jupyter"
 			]
         }
+    },
+    "settings": {
+        "python.envFile": "/opt/conda",
+        "python.defaultInterpreterPath": "/opt/conda/bin/python"
     }
 }
