@@ -121,4 +121,4 @@ model.score(x, y)
 * Визуализировать линию регрессии на диаграмме рассеяния.
 
 ## Task 9
-Данные взяты отсюда: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+Данные взяты отсюда: https://www.kaggle.com/datasets/uciml/mushroom-classification
