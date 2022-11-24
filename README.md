@@ -123,5 +123,8 @@ model.score(x, y)
 ## Task 9
 Данные взяты отсюда: https://www.kaggle.com/datasets/uciml/mushroom-classification
 
+## Task 10
+Данные взяты отсюда: https://www.kaggle.com/datasets/thedevastator/fifa-world-cup-anomaly-detection-in-player-ratin
+
 ## Task 11
 Данные взяты отсюда: https://www.kaggle.com/datasets/sidhus/crab-age-prediction
