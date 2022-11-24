@@ -122,3 +122,6 @@ model.score(x, y)
 
 ## Task 9
 Данные взяты отсюда: https://www.kaggle.com/datasets/uciml/mushroom-classification
+
+## Task 11
+Данные взяты отсюда: https://www.kaggle.com/datasets/sidhus/crab-age-prediction
